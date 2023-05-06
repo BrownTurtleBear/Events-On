@@ -1,9 +1,9 @@
 ---
 created: 2023-05-06T19:21:30+09:30
-modified: 2023-05-06T19:21:56+09:30
+modified: 2023-05-06T19:55:43+09:30
 ---
 
-# Features
+# List
 
 #### 1. Re-Enter Stamp System
 - Stamp on hand at entrance but on the phone.
