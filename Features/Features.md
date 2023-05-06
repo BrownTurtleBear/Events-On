@@ -1,6 +1,6 @@
 ---
 created: 2023-05-06T19:21:30+09:30
-modified: 2023-05-06T19:55:43+09:30
+modified: 2023-05-06T22:28:50+09:30
 ---
 
 # List
@@ -22,6 +22,7 @@ modified: 2023-05-06T19:55:43+09:30
 - walkie talkie and chat To talk to others 
 #### 6. Report system for the customers
 - They would enter what's happening and their location will be sent with the report so that staff can go to it quickly
+- lost and found
 #### 7. Review system and statistics for admin
 - Like a post- festival report by the app
 #### 8. Browse festivals
@@ -33,3 +34,12 @@ modified: 2023-05-06T19:55:43+09:30
 #### 10. Customisable home page for festival
 - add images and posters if they want.
 - widgets and other stuff
+- organisations shop for merchandise 
+#### 11. social media compatibility
+- live feed
+- posting using tags and such
+#### 12. help performers grow 
+- artists and people 
+- Search them up
+#### 13. booking for attractions
+-
