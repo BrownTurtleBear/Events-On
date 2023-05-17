@@ -5,9 +5,10 @@
 
 #### 1. Re-Enter Stamp System
 - Stamp on hand at entrance but on the phone.
-#### 2. Map of festival
+#### 2. Map
 - Make it compatible with google maps
 - When setting up the festival you can add blocks and points of where everything is.
+- tiers
 #### 3. Look at the timetable of any the admin chooses
 - For the stage, events throughout
 - should be able to see the time, place and what
